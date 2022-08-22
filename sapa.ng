@@ -1,0 +1,6 @@
+echo "Welcome to Group 35"
+echo "Please state your country and state of  birth"
+Read Country
+if [ $country=Nigeria ]
+echo "BUHARI MUST GO"
+echo "Stop Laughing now"
