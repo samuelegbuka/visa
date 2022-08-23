@@ -11,3 +11,5 @@ deployment4
 deploy to staging environment
 echo "good job"
 Tested and accepted.
+Deploy from JBoss
+Deploy from tomcat
